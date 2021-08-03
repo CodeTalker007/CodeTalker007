@@ -3,7 +3,7 @@
 
 ### Hello there 👋
 ![profile count](https://komarev.com/ghpvc/?username=CodeTalker007&color=red)&nbsp;
-[![GitHub Haroon Abid](https://img.shields.io/github/followers/dev-buntoo?label=follow&style=social)](https://github.com/CodeTalker007)&nbsp;
+[![GitHub Haroon Abid](https://img.shields.io/github/followers/CodeTalker007?label=follow&style=social)](https://github.com/CodeTalker007)&nbsp;
 
 ### 🤵 About Me:
 - 🏦 I’m currently working as a Freelance Full-Stack Engineer on Upwork and Fiverr. 
