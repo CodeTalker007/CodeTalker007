@@ -2,7 +2,7 @@
 <p align="center"><strong>Senior Full-Stack Engineer (Backend-Heavy)</strong></p>
 <p align="center"><em>I build the systems your startup can't outgrow.</em></p>
 <p align="center">
-  <img src="./assets/header-accent.svg" alt="" width="420" />
+  <img src="https://raw.githubusercontent.com/CodeTalker007/CodeTalker007/main/assets/header-accent.svg" alt="" width="420" />
 </p>
 <p align="center">
   $10M+/mo in payments · 90K+ users · 5K daily uploads · zero downtime
@@ -89,7 +89,7 @@ Languages and frontend
 ## GitHub
 
 <p align="center">
-  <img src="./assets/github-overview.svg" alt="GitHub stats, languages, and streak" />
+  <img src="https://raw.githubusercontent.com/CodeTalker007/CodeTalker007/main/assets/github-overview.svg" alt="GitHub stats, languages, and streak" />
 </p>
 
 ## Writing
