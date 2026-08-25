@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="195" viewBox="0 0 840 195" role="img" aria-label="GitHub streak">
+  <defs>
+    <linearGradient id="streakBar" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#9ece6a"/>
+    </linearGradient>
+  </defs>
+  <rect width="840" height="195" rx="12" fill="#1a1b26"/>
+  <rect x="0.5" y="0.5" width="839" height="194" rx="12" fill="none" stroke="#3b4261"/>
+  <rect x="18" y="12" width="804" height="3" rx="1.5" fill="url(#streakBar)"/>
+
+  <line x1="280" y1="36" x2="280" y2="170" stroke="#3b4261"/>
+  <line x1="560" y1="36" x2="560" y2="170" stroke="#3b4261"/>
+
+  <text x="140" y="88" text-anchor="middle" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="36">2,542</text>
+  <text x="140" y="118" text-anchor="middle" fill="#7aa2f7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600">Total Contributions</text>
+  <text x="140" y="142" text-anchor="middle" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Jun 7, 2018 — Present</text>
+
+  <circle cx="420" cy="78" r="36" fill="none" stroke="#bb9af7" stroke-width="5"/>
+  <text x="420" y="88" text-anchor="middle" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="32">1</text>
+  <text x="420" y="138" text-anchor="middle" fill="#bb9af7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600">Current Streak</text>
+  <text x="420" y="162" text-anchor="middle" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Aug 25</text>
+
+  <text x="700" y="88" text-anchor="middle" fill="#c0caf5" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700" font-size="36">12</text>
+  <text x="700" y="118" text-anchor="middle" fill="#9ece6a" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600">Longest Streak</text>
+  <text x="700" y="142" text-anchor="middle" fill="#565f89" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Jan 21 — Feb 1, 2025</text>
+</svg>

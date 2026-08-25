@@ -1,26 +1,118 @@
-<h1 align="center">Hi 👋, I'm Muhammad Afaq Umar</h1>
-<h3 align="center">A passionate Software developer from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codetalker007&label=Profile%20views&color=0e75b6&style=flat" alt="codetalker007" /> </p>
-
-- 🌱 I’m currently learning **Docker, Python, Node.js**
-
-- 💬 Ask me about **PHP, Laravel, Graphql, Vue and SQL**
-
-- 📫 How to reach me **afaqumarbsse@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-afaq-umar-537ab715a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-afaq-umar-537ab715a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12718565/muhammad-afaq-umar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12718565/muhammad-afaq-umar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/afaqumarbsse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="afaqumarbsse" height="30" width="40" /></a>
+<h1 align="center">Muhammad Afaq Umar</h1>
+<p align="center"><strong>Senior Full-Stack Engineer (Backend-Heavy)</strong></p>
+<p align="center"><em>I build the systems your startup can't outgrow.</em></p>
+<p align="center">
+  <img src="./assets/header-accent.svg" alt="" width="420" />
+</p>
+<p align="center">
+  $10M+/mo in payments · 90K+ users · 5K daily uploads · zero downtime
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-afaq-umar-537ab715a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:afaqumarbsse@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://codetalker007.github.io"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://medium.com/@afaqumarbsse"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/12718565/muhammad-afaq-umar"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeTalker007&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codetalker007&show_icons=true&locale=en&layout=compact" alt="codetalker007" /></p>
+## What I ship
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codetalker007&show_icons=true&locale=en" alt="codetalker007" /></p>
+Full-stack engineer with **7+ years** shipping payment platforms, distributed pipelines, and production backends that handle real traffic — not toy projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codetalker007&" alt="codetalker007" /></p>
+I own the stack from schema to deploy: Laravel/PHP APIs, multi-gateway billing, AWS (EC2, RDS, S3, SQS, Lambda), Redis queues, and Go/Python workers where the problem needs them. I have inherited outages, slow queries, and a live supply-chain compromise, and turned those systems into the most stable part of the stack.
+
+**Ask me about:** Laravel at scale, payment retries, event-driven file pipelines, GraphQL, and Composer security.
+
+## Impact
+
+| Payments | Patients | Daily uploads | Recovery |
+| :---: | :---: | :---: | :---: |
+| **$10M+/mo** | **90K+** | **5,000+** | **30 hours, zero downtime** |
+
+## Featured work
+
+**Prescription Hope** — Healthtech / Payments  
+Healthcare platform processing **$10M+/month** for **90K+ patients**. Owned the backend across employee and patient portals. Built a unified payment layer over Stripe, USAePay, and Payroc with automated retries, 20+ billing crons, and sub-100ms query paths on MySQL/AWS. **Zero payment downtime.**
+
+**Veva Collect** — Music-tech / Distributed systems  
+File pipeline for major labels and Grammy-winning producers: **5,000+ daily uploads** (up to 10GB) and async ZIP creation for **25GB+** shares. Laravel API + Go workers on AWS S3, SQS, Lambda, Redis, and GraphQL. **Upload outages went to zero.**
+
+**Aldawli ERP** — Enterprise / Security  
+Found and neutralized a Composer supply-chain backdoor (hidden admin routes, obfuscated payloads) on a live ERP. Isolated execution paths, sanitized the package, revalidated every module — **30 hours, zero downtime.**  
+[Write-up on Medium](https://medium.com/@afaqumarbsse/the-hidden-backdoor-how-a-single-composer-package-nearly-compromised-an-entire-erp-system-1efce1e74547)
+
+**Step2Compliance** — Enterprise / Cross-platform  
+Async `.xlsm` pipeline: Laravel queues a Python worker on Windows EC2, files land in S3, webhooks + WebSockets close the loop. **65% faster delivery, UI never blocked.**  
+[Write-up on Medium](https://medium.com/@afaqumarbsse/the-right-environment-for-the-right-problem-a-laravel-python-windows-ec2-architecture-case-study-c8076215f086)
+
+## Tech stack
+
+Backend, data, and APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,mongodb,graphql&theme=dark" alt="Backend: PHP, Laravel, MySQL, PostgreSQL, Redis, MongoDB, GraphQL" />
+</p>
+
+Cloud and delivery
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions,git&theme=dark" alt="Cloud: AWS, Docker, Linux, Nginx, GitHub Actions, Git" />
+</p>
+
+Languages and frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,py,nodejs,vue,react,js,html,css,tailwind&theme=dark" alt="Languages and frontend: Go, Python, Node.js, Vue, React, JavaScript, HTML, CSS, Tailwind" />
+</p>
+
+### Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  <img src="https://img.shields.io/badge/Payroc-0B1F33?style=for-the-badge" alt="Payroc" />
+  <img src="https://img.shields.io/badge/ZATCA-1B7A4E?style=for-the-badge" alt="ZATCA" />
+  <img src="https://img.shields.io/badge/Spektrix-6B2D5B?style=for-the-badge" alt="Spektrix" />
+  <img src="https://img.shields.io/badge/Tekmetric-0F4C81?style=for-the-badge" alt="Tekmetric" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/WebSockets-010409?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Queues-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Queues" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+## GitHub
+
+<p align="center">
+  <img src="./assets/github-overview.svg" alt="GitHub stats, languages, and streak" />
+</p>
+
+## Writing
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Security</h3>
+      <h3><a href="https://medium.com/@afaqumarbsse/the-hidden-backdoor-how-a-single-composer-package-nearly-compromised-an-entire-erp-system-1efce1e74547">The Hidden Backdoor in a Composer Package</a></h3>
+      <p>How I found and neutralized a supply-chain attack on a live ERP — obfuscated payloads, hidden admin routes, 30 hours to full recovery.</p>
+      <p><a href="https://medium.com/@afaqumarbsse/the-hidden-backdoor-how-a-single-composer-package-nearly-compromised-an-entire-erp-system-1efce1e74547">Read on Medium →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>System Design</h3>
+      <h3><a href="https://medium.com/@afaqumarbsse/the-right-environment-for-the-right-problem-a-laravel-python-windows-ec2-architecture-case-study-c8076215f086">The Right Environment for the Right Problem</a></h3>
+      <p>Laravel queues a Python worker on Windows EC2 for .xlsm generation — 65% faster delivery without blocking the UI.</p>
+      <p><a href="https://medium.com/@afaqumarbsse/the-right-environment-for-the-right-problem-a-laravel-python-windows-ec2-architecture-case-study-c8076215f086">Read on Medium →</a></p>
+    </td>
+  </tr>
+</table>
+
+## Let's talk
+
+Open to **Senior Backend / Full-Stack** roles — remote or relocation (US/EU).
+
+**[afaqumarbsse@gmail.com](mailto:afaqumarbsse@gmail.com)** · [LinkedIn](https://linkedin.com/in/muhammad-afaq-umar-537ab715a) · [Portfolio](https://codetalker007.github.io)

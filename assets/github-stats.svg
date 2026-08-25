@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub stats">
+  <defs>
+    <linearGradient id="statsBar" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+  </defs>
+  <rect width="495" height="195" rx="12" fill="#1a1b26"/>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="none" stroke="#3b4261"/>
+  <rect x="12" y="12" width="4" height="171" rx="2" fill="url(#statsBar)"/>
+  <text x="32" y="36" fill="#7aa2f7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="700">GitHub Stats</text>
+  <g font-family="Segoe UI, Ubuntu, sans-serif">
+    <circle cx="36" cy="64" r="3.5" fill="#7aa2f7"/>
+    <text x="50" y="69" fill="#a9b1d6" font-size="13">Public repositories</text>
+    <text x="470" y="69" text-anchor="end" fill="#c0caf5" font-size="15" font-weight="700">15</text>
+
+    <circle cx="36" cy="96" r="3.5" fill="#bb9af7"/>
+    <text x="50" y="101" fill="#a9b1d6" font-size="13">Followers</text>
+    <text x="470" y="101" text-anchor="end" fill="#c0caf5" font-size="15" font-weight="700">4</text>
+
+    <circle cx="36" cy="128" r="3.5" fill="#9ece6a"/>
+    <text x="50" y="133" fill="#a9b1d6" font-size="13">Original repos</text>
+    <text x="470" y="133" text-anchor="end" fill="#c0caf5" font-size="15" font-weight="700">7</text>
+
+    <circle cx="36" cy="160" r="3.5" fill="#7dcfff"/>
+    <text x="50" y="165" fill="#a9b1d6" font-size="13">Member since</text>
+    <text x="470" y="165" text-anchor="end" fill="#c0caf5" font-size="15" font-weight="700">2018</text>
+  </g>
+</svg>

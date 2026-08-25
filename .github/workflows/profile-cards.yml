@@ -1,0 +1,57 @@
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+# Uses PROFILE_STATS_TOKEN when set (classic PAT with `repo` scope) so
+# language and contribution stats include private repositories.
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats and language cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5
+          THEME: "tokyonight"
+          AUTO_PUSH: false
+          ANIMATION: "none"
+          EXCLUDE_REPOS: "odoo,erpnext,opencart,NexoPOS,lakasir,first-contributions,Portfolio,clicky"
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=false&disable_animations=true
+          path: assets/github-streak.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Copy summary cards into assets
+        run: |
+          set -euo pipefail
+          mkdir -p assets
+          THEME_DIR="profile-summary-card-output/tokyonight"
+          test -f "$THEME_DIR/3-stats.svg"
+          test -f "$THEME_DIR/1-repos-per-language.svg"
+          cp "$THEME_DIR/3-stats.svg" assets/github-stats.svg
+          cp "$THEME_DIR/1-repos-per-language.svg" assets/github-languages.svg
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/github-languages.svg assets/github-streak.svg
+          git commit -m "chore: refresh GitHub profile cards" || exit 0
+          git push

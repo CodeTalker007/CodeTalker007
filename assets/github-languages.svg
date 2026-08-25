@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Top languages">
+  <defs>
+    <linearGradient id="langBar" x1="0" x2="1">
+      <stop offset="0%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#9ece6a"/>
+    </linearGradient>
+  </defs>
+  <rect width="495" height="195" rx="12" fill="#1a1b26"/>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="none" stroke="#3b4261"/>
+  <rect x="12" y="12" width="4" height="171" rx="2" fill="url(#langBar)"/>
+  <text x="32" y="36" fill="#7aa2f7" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="700">Top Languages</text>
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">
+    <text x="32" y="58" fill="#c0caf5">PHP</text>
+    <text x="470" y="58" text-anchor="end" fill="#7aa2f7" font-weight="700">50%</text>
+    <rect x="32" y="66" width="438" height="8" rx="4" fill="#292e42"/>
+    <rect x="32" y="66" width="219" height="8" rx="4" fill="#7aa2f7"/>
+
+    <text x="32" y="94" fill="#c0caf5">JavaScript</text>
+    <text x="470" y="94" text-anchor="end" fill="#e0af68" font-weight="700">17%</text>
+    <rect x="32" y="102" width="438" height="8" rx="4" fill="#292e42"/>
+    <rect x="32" y="102" width="74" height="8" rx="4" fill="#e0af68"/>
+
+    <text x="32" y="130" fill="#c0caf5">Python</text>
+    <text x="470" y="130" text-anchor="end" fill="#9ece6a" font-weight="700">17%</text>
+    <rect x="32" y="138" width="438" height="8" rx="4" fill="#292e42"/>
+    <rect x="32" y="138" width="74" height="8" rx="4" fill="#9ece6a"/>
+
+    <text x="32" y="166" fill="#c0caf5">HTML</text>
+    <text x="470" y="166" text-anchor="end" fill="#f7768e" font-weight="700">17%</text>
+    <rect x="32" y="174" width="438" height="8" rx="4" fill="#292e42"/>
+    <rect x="32" y="174" width="74" height="8" rx="4" fill="#f7768e"/>
+  </g>
+</svg>
